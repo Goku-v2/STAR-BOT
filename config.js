@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2347045035241', 'EXCEL', true],
+  ['2349045613439', '✞ꪻ᥇ꪮꪗ™', true],
   [''], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "2347045035241" //put your bot number here
+//global.pairingNumber = "2349045613439" //put your bot number here
 
 global.mods = ['2347045035241','2348021779696'] 
 global.prems = ['2347045035241', '2348021779696', '2347045038687']
@@ -50,26 +50,26 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '©STAR-MD-V2'
+global.botname = '✞ꪻ᥇ꪮꪗ™'
 global.premium = 'true'
-global.packname = '©𝚂𝚃𝙰𝚁-𝙼𝙳' 
-global.author = '@𝙴𝚡𝚌𝚎𝚕' 
-global.menuvid = 'https://i.imgur.com/BPQbguA.mp4'
+global.packname = '✞' 
+global.author = '✞ꪻ᥇ꪮꪗ™' 
+global.menuvid = 'https://telegra.ph/file/6a1e30e7db91b4f0d5158.mp4'
 global.Channel = 'https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X' 
-global.dygp = 'https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X'
-global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
+global.dygp = 'https://chat.whatsapp.com/E9gwnn6w48dKPLez1BBNt5'
+global.fgsc = 'https://github.com/Goku-v2/STAR-BOT' 
 global.Channel2 = 'https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X'
-global.Wa = 'https://wa.me/2347045035241'
+global.Wa = 'https://wa.me/2349045613439'
 global.fglog = 'STAR.jpg' 
 global.thumb = fs.readFileSync('./STAR.jpg')
 global.shizokeys = 'shizo'
 
 
-global.wait = '*🕒 _STAR IS  LOADING WAIT..._*\n*▰▰▰▱▱▱▱▱ 💫*'
+global.wait = '*🕒 _✞ꪻ᥇ꪮꪗ™ IS  LOADING WAIT..._*\n*▰▰▰▱▱▱▱▱ 💫*'
 global.rwait = '🔜'
 global.dmoji = '⤵️'
 global.done = '☑️'
-global.error = '❎' 
+global.error = '☠️' 
 global.xmoji = '⚡' 
 
 global.multiplier = 69 
